@@ -1,0 +1,127 @@
+/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+/*
+  2. Fusce at   
+  3. Facilisis   
+   4.Ante donec  
+  5. Blandit rhoncus 
+  6. Placerat
+
+
+
+
+
+
+
+
+*/
+/*header start*/
+
+/*global css*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    font-family: font-family: 'Roboto', sans-serif;;
+
+
+}
+h1{
+
+}
+h2{
+
+}
+h3{
+    color: #fff;
+    margin: 10px 0px;
+    font-size: 30px;
+
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+p{
+    color: #fff;
+    font-size: 15px;
+
+
+}
+
+
+
+/*header start*/
+
+header{
+    background-color: #edeff1;
+    padding: 40px 0px;
+
+}
+
+.nav-link{
+    color:#31353e ;
+
+}
+
+.fixed-top{
+    background-color: #edeff1;
+
+}
+.hero{
+    background-image: url(../img/banner.jpg);
+
+}
+.food-item{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.btn-one{
+    margin: 0 auto;
+    display: block;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    padding: 10px 40px;
+    color: #612316;
+
+
+}
+
+.hero-title{
+    padding-top: 360px;
+    padding-bottom: 60px;
+    text-align: center;
+
+}
+.hero-title h1{
+    color:#fff;
+    font-size: 60px;
+
+}
+.hero-title p{
+    color: #fff;
+    font-size: 30px;
+
+}
